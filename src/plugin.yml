@@ -1,0 +1,14 @@
+main: me.Matt4499.mPrison.Main
+name: mPrison
+version: 1.0.0
+author: Matt4499
+api-version: 1.16
+commands:
+  mprisondebug:
+    description: admin only
+    aliases:
+      mpdebug
+  givecustomitem:
+    description: admin only
+    aliases:
+      givecustomi
